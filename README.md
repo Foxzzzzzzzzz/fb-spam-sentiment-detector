@@ -1,5 +1,14 @@
-# 🧠 Lab NLP: Tự động gán nhãn & phân tách từ cho bình luận Facebook tiếng Việt
+#  Đại Học Lạc Hồng - 🧠 Lab NLP: Tự động gán nhãn & phân tách từ cho bình luận Facebook tiếng Việt
+Cơ Sở Ngôn Ngữ Học – Hỗ Trợ Xử Lý Ngôn Ngữ Tiếng Việt
 
+**Thông tin sinh viên:**
+
+| STT | Mã Số Sinh Viên | Họ và Tên            |
+|-----|-----------------|----------------------|
+| 1   | 123000007       | Trần Văn Hội         |
+| 2   |                 |                      |
+
+## Mô tả dự án
 Ứng dụng Streamlit sử dụng thư viện **underthesea** để xử lý ngôn ngữ tự nhiên tiếng Việt: phân tách từ (word segmentation), gán nhãn cảm xúc (sentiment analysis) và phát hiện spam trên tập bình luận Facebook.
 
 ---
